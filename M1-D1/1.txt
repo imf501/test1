@@ -1,0 +1,10 @@
+Cmd avvia da search
+help lista comandi
+dir come ls
+cls clear pulisce
+
+dir /? come man in linux
+cd .. change directory torna indietro
+cd nomecartella entro in cartella
+mkdir nomecartella crea cartella, va bene anche md nomecartella
+rmdir removedirectory mv linux
